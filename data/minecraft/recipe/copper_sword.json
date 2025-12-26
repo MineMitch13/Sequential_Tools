@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        " 1 ",
+        " 1 ",
+        " 2 "
+    ],
+    "key": {
+        "1": "minecraft:copper_ingot",
+        "2": "minecraft:stone_sword"
+    },
+    "result": {
+        "id": "minecraft:copper_sword",
+        "count": 1
+    }
+}

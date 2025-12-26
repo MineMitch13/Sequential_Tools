@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "111",
+        "121"
+    ],
+    "key": {
+        "1": "minecraft:iron_nugget",
+        "2": "minecraft:copper_helmet"
+    },
+    "result": {
+        "id": "minecraft:chainmail_helmet",
+        "count": 1
+    }
+}

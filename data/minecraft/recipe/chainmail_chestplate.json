@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "121",
+        "111",
+        "111"
+    ],
+    "key": {
+        "1": "minecraft:iron_nugget",
+        "2": "minecraft:copper_chestplate"
+    },
+    "result": {
+        "id": "minecraft:chainmail_chestplate",
+        "count": 1
+    }
+}

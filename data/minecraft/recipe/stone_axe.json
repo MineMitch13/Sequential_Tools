@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "group": "stoneaxe",
+    "pattern": [
+        "11 ",
+        "12 ",
+        " 3 "
+    ],
+    "key": {
+        "1": "#tools:stone_tool_materials",
+        "2": "minecraft:wooden_axe",
+        "3": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:stone_axe",
+        "count": 1
+    }
+}

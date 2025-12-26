@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "121",
+        "111",
+        "111"
+    ],
+    "key": {
+        "1": "minecraft:copper_ingot",
+        "2": "minecraft:leather_chestplate"
+    },
+    "result": {
+        "id": "minecraft:copper_chestplate",
+        "count": 1
+    }
+}

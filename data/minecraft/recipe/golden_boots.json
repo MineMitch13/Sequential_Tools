@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+        "121",
+        "1 1"
+    ],
+    "key": {
+        "1": "minecraft:gold_ingot",
+        "2": "minecraft:iron_boots"
+    },
+    "result": {
+        "id": "minecraft:golden_boots",
+        "count": 1
+    }
+}
